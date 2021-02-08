@@ -1,0 +1,13 @@
+{
+  "timeZone": "America/Caracas",
+  "dependencies": {
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "sheets": {
+    "macros": [{
+      "menuName": "achar last row",
+      "functionName": "acharlastrow"
+    }]
+  }
+}
